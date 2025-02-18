@@ -31,10 +31,11 @@ WizardStyle=modern
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
 [Files]
-Source: "C:\Users\ethan\Downloads\streetsofTrogue\final\elevator.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\ethan\Downloads\streetsofTrogue\final\servicer.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\ethan\Downloads\streetsofTrogue\final\crazy.wav"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\ethan\Downloads\streetsofTrogue\final\newMain.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\ethan\Downloads\streetsoftrogue-main\streetsoftrogue-main\elevator.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\ethan\Downloads\streetsoftrogue-main\streetsoftrogue-main\servicer.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\ethan\Downloads\streetsoftrogue-main\streetsoftrogue-main\crazy.wav"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\ethan\Downloads\streetsoftrogue-main\streetsoftrogue-main\newMain.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\ethan\Downloads\streetsoftrogue-main\streetsoftrogue-main\disable.bat"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Run]
